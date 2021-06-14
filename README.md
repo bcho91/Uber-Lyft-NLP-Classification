@@ -1,4 +1,4 @@
-# Project 3 - Web APIs & NLP
+# Reddit NLP Classification - Uber & Lyft
 
 Brian Cho
 
